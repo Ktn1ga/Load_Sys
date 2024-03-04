@@ -1,0 +1,27 @@
+<RCC>
+  <qresource prefix="images">
+    <file>resources/数据选择器.png</file>
+    <file>resources/btn_checked.png</file>
+    <file>resources/btn_unchecked.png</file>
+    <file>resources/保存.png</file>
+    <file>resources/预测.png</file>
+    <file>resources/删除.png</file>
+    <file>resources/增加.png</file>
+    <file>resources/导出.png</file>
+    <file>resources/帮助中心.png</file>
+    <file>resources/查询.png</file>
+    <file>resources/spinbox-down.png</file>
+    <file>resources/spinbox-up.png</file>
+    <file>resources/checkbox_checked.png</file>
+    <file>resources/checkbox_unchecked.png</file>
+    <file>resources/bj.png</file>
+    <file>resources/auto_logo.jpg</file>
+    <file>resources/查询.svg</file>
+    <file>resources/电力情况.svg</file>
+    <file>resources/负荷监控.svg</file>
+    <file>resources/负荷聚类.svg</file>
+    <file>resources/负荷预测.svg</file>
+    <file>resources/数据查看.svg</file>
+    <file>resources/智慧电力.svg</file>
+  </qresource>
+</RCC>
